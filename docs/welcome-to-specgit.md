@@ -6,7 +6,7 @@ This document lives in **your repository** — specgit created it on a review br
 
 1. **Edit this line.** Click anywhere and start typing — no Markdown syntax needed. Your changes save automatically as commits.
 2. **Leave a comment.** Select some text and add a comment. It becomes a real pull-request review thread on GitHub.
-3. **Publish.** Press _Publish_ in the top right when you're ready — specgit merges the pull request and cleans up after itself.
+3. **Publish.** Press *Publish* in the top right when you're ready — specgit merges the pull request and cleans up after itself.
 
 ## Why teams use specgit
 
