@@ -6,9 +6,10 @@ We ship Aurora to all customers on **September 12**. Marketing, support, and doc
 
 ## Milestones
 
-| Milestone | Owner | Date |
-| --- | --- | --- |
-| Feature freeze | Mia | Aug 29 |
-| Launch review | Alex | Sep 5 |
+| Milestone      | Owner | Date   |
+| -------------- | ----- | ------ |
+| Feature freeze | Mia   | Aug 29 |
+| Launch review  | Alex  | Sep 5  |
 
 > One launch, zero surprises - that's the bar.
+
